@@ -1,1 +1,1 @@
-<h1>&2728; Sobre mim</h1>
+<h1>&#x2728; Sobre mim</h1>
