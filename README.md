@@ -1,5 +1,5 @@
 <h1>&#x2728; About Me</h1>
-<p>Estudo as tecnologias necessárias para o desenvolvimento de <strong>Games</strong> e <strong>Back-end</strong>.</p>
+<p>Estudo desenvolvimento de <strong>Games</strong> e <strong>Back-end</strong>.</p>
 <h2>&#x1F4F1;Socials</h2>
 <a href="https://www.linkedin.com/in/nielson-rodrigues-pereira-a25039350?trk=contact-info" target="_self" rel="next"><img src="https://camo.githubusercontent.com/bbd5a3be2124528ab2064d49356ed845b5f9a05fc79c603e25c76c6601e28b67/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d2532333030373742352e7376673f6c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="Imagem referindo-se ao LinkedIn"></a>
 <h1>Tech Stack</h1>
